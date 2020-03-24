@@ -1,0 +1,6 @@
+{
+  "database" : {
+    "name" : "newDb1",
+    "rootFolder" : "Databases"
+  }
+}
